@@ -7,7 +7,7 @@ const Navbar = () => {
     return(
         <nav className="nav-wrapper orange darken-1">
             <div className="container">
-                <Link to='/' className="brand-logo">7day planning work</Link>
+                <Link to='/' className="brand-logo"> KSworks</Link>
                 <SignedInLinks />
                 <SignedOutLinks />
                 </div>
