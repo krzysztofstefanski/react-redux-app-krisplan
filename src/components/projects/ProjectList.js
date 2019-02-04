@@ -5,7 +5,10 @@ const ProjectList = () => {
   return (
     <div className="project-list section">
      <ProjectSummary />
-    </div>
+     <ProjectSummary />
+     <ProjectSummary />
+     <ProjectSummary />
+ </div>
   );
 };
 
