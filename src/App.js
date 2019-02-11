@@ -25,7 +25,7 @@ class App extends Component {
          <Route path='/create ' component={CreateProject}/>
 
          </Switch>
-      </div>
+      </div >
       </BrowserRouter>
 
     );
